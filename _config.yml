@@ -20,4 +20,4 @@ defaults:
     type: pages
   values:
     layout: page
-permalink: "/:year:month:day:hour:minute:second"
+permalink: pretty
