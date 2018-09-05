@@ -1,5 +1,5 @@
 ---
-title: 'ssamjiagain'
+title: ssamjiagain
 date: 2018-09-06 11:04:00 +09:00
 ---
 
